@@ -1,0 +1,8 @@
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-4\Con2DArray\Con2DArray\bin\Debug\Con2DArray.exe.config
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-4\Con2DArray\Con2DArray\bin\Debug\Con2DArray.exe
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-4\Con2DArray\Con2DArray\bin\Debug\Con2DArray.pdb
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-4\Con2DArray\Con2DArray\obj\Debug\Con2DArray.csproj.AssemblyReference.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-4\Con2DArray\Con2DArray\obj\Debug\Con2DArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-4\Con2DArray\Con2DArray\obj\Debug\Con2DArray.csproj.CoreCompileInputs.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-4\Con2DArray\Con2DArray\obj\Debug\Con2DArray.exe
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-4\Con2DArray\Con2DArray\obj\Debug\Con2DArray.pdb
